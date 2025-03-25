@@ -1,4 +1,6 @@
 ⭐ Login Application using JSP, Servlet, and MySQL
+
+
 📋 Project Overview
 This project is a simple yet complete dynamic web application that demonstrates how to build a user registration system using JSP (Java Server Pages), Servlets, and MySQL. It allows users to submit their personal details through a clean and user-friendly form, which are then stored securely in a MySQL database. This project is designed for beginners and intermediate Java web developers who want to learn how to connect a web form to a backend and perform data insertion with form validation.
 
